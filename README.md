@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an **HR Analytics Dashboard** developed with **Power BI**. The dashboard is designed to analyze key **Human Resources (HR)** metrics, including **employee attrition**, **demographics**, and **job satisfaction**. It offers a comprehensive overview for HR teams to assess and improve **employee engagement**, **retention**, and **performance**.
+This repository contains an **HR Analytics Dashboard** with **Power BI**. The dashboard is designed to analyze key **Human Resources** metrics, including **employee attrition**, **demographics**, and **job satisfaction**. It offers a comprehensive overview for HR teams to assess and improve **employee engagement**, **retention**, and **performance**.
 
 ---
 
@@ -12,7 +12,7 @@ This repository contains an **HR Analytics Dashboard** developed with **Power BI
 - Displays the total number of employees (**1.47K**) and the attrition count (**237**), with an overall attrition rate of **16.12%**.
 
 ### Department-wise Attrition:
-- Shows employee distribution across departments (**R&D**, **Sales**, and **HR**) along with detailed attrition data for each.
+- Shows employee distribution across departments (**Research & Development**,**R&D**, **Sales**, and **HR**) along with detailed attrition data for each.
 
 ### Employee Demographics:
 - Breaks down employees by **gender**, **age group**, and **education field**.
