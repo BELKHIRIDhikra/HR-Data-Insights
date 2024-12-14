@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/2ac66a67-6791-45ae-b266-48fd2c8f989e)
 # HR Analytics Dashboard
 
 ## Overview
@@ -58,4 +57,5 @@ This repository contains an **HR Analytics Dashboard** developed with **Power BI
 
 - **Power BI**: Used to create the interactive dashboard and perform data visualization.
 - **Dataset**: A sample HR dataset providing insights into employee data for analysis.
+![image](https://github.com/user-attachments/assets/2ac66a67-6791-45ae-b266-48fd2c8f989e)
 
