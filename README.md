@@ -64,6 +64,8 @@ Download and install Power BI Desktop from Power BI.
 
 Open the .pbix file to explore the HR dashboard in Power BI.
 
+![image](https://github.com/user-attachments/assets/46d9ce94-e59f-4763-abe6-c505dc847f68)
+
 
 
 
