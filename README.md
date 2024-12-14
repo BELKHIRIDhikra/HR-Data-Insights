@@ -68,8 +68,26 @@ Power BI: Used to create the interactive dashboard and perform data visualizatio
 
 Dataset: A sample HR dataset that provides insights into employee data for analysis.
 
-How to Use:
 
-Download and install Power BI Desktop from the official Power BI website.
-Open the .pbix file to explore the HR dashboard in Power BI.
+
 ![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
