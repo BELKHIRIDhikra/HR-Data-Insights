@@ -56,11 +56,12 @@ This repository contains an **HR Analytics Dashboard** with **Power BI**. The da
 ## Tools & Technologies:
 
 - **Power BI**: Used to create the interactive dashboard and perform data visualization.
-- **Dataset**:
-This project uses a sample HR dataset for analysis. The dataset is stored in the repository and can be found here: 
+- ## Dataset
 
-- [HR Analytics Dataset](./path/to/your/datafile.csv)
-.
+This project uses a sample HR dataset stored in Google Sheets. You can access it here:
+
+[HR Analytics Dataset](https://docs.google.com/spreadsheets/d/1T5GP3YrRkDb2MFtuiFokgFp0DmpnNOqe/edit?usp=sharing&ouid=116915898860127164230&rtpof=true&sd=true)
+
 ![image](https://github.com/user-attachments/assets/2ac66a67-6791-45ae-b266-48fd2c8f989e)
 
 
